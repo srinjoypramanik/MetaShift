@@ -131,37 +131,61 @@ const int EXTRA_COINS_L2 = 80;
 const int EXTRA_COINS_L3 = 120;
 const int EXTRA_COINS_L4 = 140;
 
+
+// Max Fuel Level
+
 const double MAX_FUEL = 100.0;
 double fuelLevel = MAX_FUEL;
+
+
+// Fuel Reduction in Level
 
 const double FUEL_DEC_L1 = 0.18;
 const double FUEL_DEC_L2 = 0.18;
 const double FUEL_DEC_L3 = 0.22;
 const double FUEL_DEC_L4 = 0.25;
 
+
+// Fuel Addition in Level
+
 const double FUEL_ADD_L1 = 22.0;
 const double FUEL_ADD_L2 = 22.0;
 const double FUEL_ADD_L3 = 35.0;
 const double FUEL_ADD_L4 = 30.0;
 
+
+// Shooting Cost in Level
+
 const double SHOOT_COST_L2 = 2;
 const double SHOOT_COST_L3 = 2;
 const double SHOOT_COST_L4 = 1;
+
+
+// Fuel Number in Level
 
 const int FUEL_COUNT_L1 = 13;
 const int FUEL_COUNT_L2 = 15;
 const int FUEL_COUNT_L3 = 70;
 const int FUEL_COUNT_L4 = 5;
 
+
+// Fuel Start in Level
+
 const double FUEL_START_X_L1 = 900;
 const double FUEL_START_X_L2 = 900;
 const double FUEL_START_X_L3 = 900;
 const double FUEL_START_X_L4 = 900;
 
+
+// Fuel Gap in Level
+
 const double FUEL_GAP_L1 = 1200;
 const double FUEL_GAP_L2 = 1400;
 const double FUEL_GAP_L3 = 1600;
 const double FUEL_GAP_L4 = 1800;
+
+
+// Fuel & Boost Bar & Icon 
 
 const int HUD_TOP_Y = SCREEN_HEIGHT - 30;
 const int HUD_FUEL_BAR_X = 95;
