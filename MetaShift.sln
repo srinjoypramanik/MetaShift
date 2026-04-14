@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetaShift", "MetaShift\MetaShift.vcxproj", "{983149D6-2AB3-4E17-9AB6-DAC87448FF21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983149D6-2AB3-4E17-9AB6-DAC87448FF21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{983149D6-2AB3-4E17-9AB6-DAC87448FF21}.Debug|Win32.Build.0 = Debug|Win32
+		{983149D6-2AB3-4E17-9AB6-DAC87448FF21}.Release|Win32.ActiveCfg = Release|Win32
+		{983149D6-2AB3-4E17-9AB6-DAC87448FF21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
