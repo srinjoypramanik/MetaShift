@@ -98,10 +98,10 @@ const double BULLET_SPEED_L2 = 14.0;
 const double BULLET_SPEED_L3 = 25.0;
 const double BULLET_SPEED_L4 = 30.0;
 
-const int TARGET_COINS_L1 = 20;
-const int TARGET_COINS_L2 = 20;
-const int TARGET_COINS_L3 = 20;
-const int TARGET_COINS_L4 = 20;
+const int TARGET_COINS_L1 = 100;
+const int TARGET_COINS_L2 = 100;
+const int TARGET_COINS_L3 = 100;
+const int TARGET_COINS_L4 = 100;
 
 const int EXTRA_COINS_L1 = 40;
 const int EXTRA_COINS_L2 = 80;
