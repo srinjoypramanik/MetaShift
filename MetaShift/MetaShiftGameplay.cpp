@@ -75,33 +75,56 @@ int armoredZombieImg[4] = { 0, 0, 0, 0 };
 int fastZombieImg[4] = { 0, 0, 0, 0 };
 int monsterZombieImg[7] = { 0, 0, 0, 0, 0, 0, 0 };
 
+
+// Car & Robot Size
+
 const int CAR_L1_W = 140;
 const int CAR_L1_H = 120;
+
 const int CAR_L2_W = 160;
 const int CAR_L2_H = 110;
+
 const int CAR_L3_W = 190;
 const int CAR_L3_H = 160;
+
 const int ROBOT_W = 110;
 const int ROBOT_H = 130;
+
+
+// Coin, Fuel, Bullet Size
+
 const int COIN_W = 40;
 const int COIN_H = 40;
+
 const int FUEL_W = 60;
 const int FUEL_H = 40;
+
 const int BULLET_W_L2 = 20;
 const int BULLET_H_L2 = 20;
+
 const int BULLET_W_L3 = 24;
 const int BULLET_H_L3 = 24;
+
 const int BULLET_W_L4 = 32;
 const int BULLET_H_L4 = 32;
+
+
+// Bullet Speed in Level
 
 const double BULLET_SPEED_L2 = 14.0;
 const double BULLET_SPEED_L3 = 25.0;
 const double BULLET_SPEED_L4 = 30.0;
 
+
+// Coin Target in Level
+
 const int TARGET_COINS_L1 = 100;
 const int TARGET_COINS_L2 = 100;
 const int TARGET_COINS_L3 = 100;
 const int TARGET_COINS_L4 = 100;
+
+
+// Extra Coin in Level
 
 const int EXTRA_COINS_L1 = 40;
 const int EXTRA_COINS_L2 = 80;
