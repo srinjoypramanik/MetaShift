@@ -203,6 +203,9 @@ const int HUD_TEXT_X = 780;
 const double LOW_FUEL_RATIO = 0.30;
 int fuelBlink = 0;
 
+
+// Boost 
+
 double boostBar = 0.0;
 const double BOOST_PER_COIN = 10.0;
 const double BOOST_AFTER_USE = 30.0;
@@ -228,53 +231,77 @@ std::vector<Bullet> bullets;
 int shootCooldown = 0;
 const int SHOOT_COOLDOWN_TICKS = 10;
 
+
 const double ZOMBIE_SPEED_NORMAL = 4.0;
 const double ZOMBIE_SPEED_FAST = 6.5;
 const int ZOMBIE_SPAWN_MIN = 170;
 const int ZOMBIE_SPAWN_MAX = 450;
 
+
+// Zombie in Levels
+
 const int ZOMBIE_SPAWN_DELAY_L1 = 90;
 const int ZOMBIE_SPAWN_CHANCE_L1 = 50;
 const int ZOMBIE_EXTRA_SPAWN_CHANCE_L1 = 0;
 const int MAX_ZOMBIES_ON_SCREEN_L1 = 4;
+
 const int ZOMBIE_SPAWN_DELAY_L2 = 70;
 const int ZOMBIE_SPAWN_CHANCE_L2 = 65;
 const int ZOMBIE_EXTRA_SPAWN_CHANCE_L2 = 0;
 const int MAX_ZOMBIES_ON_SCREEN_L2 = 6;
+
 const int ZOMBIE_SPAWN_DELAY_L3 = 100;
 const int ZOMBIE_SPAWN_CHANCE_L3 = 90;
 const int ZOMBIE_EXTRA_SPAWN_CHANCE_L3 = 0;
 const int MAX_ZOMBIES_ON_SCREEN_L3 = 8;
+
 const int ZOMBIE_SPAWN_DELAY_L4 = 70;
 const int ZOMBIE_SPAWN_CHANCE_L4 = 100;
 const int ZOMBIE_EXTRA_SPAWN_CHANCE_L4 = 35;
 const int MAX_ZOMBIES_ON_SCREEN_L4 = 10;
 
+
+// Zombie Health in Levels
+
 const int L1_NORMAL_ZOMBIE_HEALTH = 2;
+
 const int L2_NORMAL_ZOMBIE_HEALTH = 1;
 const int L2_ARMORED_ZOMBIE_HEALTH = 2;
+
 const int L3_ARMORED_ZOMBIE_HEALTH = 2;
 const int L3_FAST_ZOMBIE_HEALTH = 3;
+
 const int L4_FAST_ZOMBIE_HEALTH = 3;
 const int L4_MONSTER_ZOMBIE_HEALTH = 4;
+
+
+// Zombie Health Bar
+
 const int ZOMBIE_HEALTH_BAR_W = 52;
 const int ZOMBIE_HEALTH_BAR_H = 6;
 const int ZOMBIE_HEALTH_BAR_GAP = 10;
 
+
+// Zombie Size in Levels
+
 const int ZOMBIE_NORMAL_W_L1 = 70;
 const int ZOMBIE_NORMAL_H_L1 = 70;
+
 const int ZOMBIE_NORMAL_W_L2 = 70;
 const int ZOMBIE_NORMAL_H_L2 = 70;
 const int ZOMBIE_ARMORED_W_L2 = 85;
 const int ZOMBIE_ARMORED_H_L2 = 85;
+
 const int ZOMBIE_ARMORED_W_L3 = 110;
 const int ZOMBIE_ARMORED_H_L3 = 110;
 const int ZOMBIE_FAST_W_L3 = 160;
 const int ZOMBIE_FAST_H_L3 = 160;
+
 const int ZOMBIE_FAST_W_L4 = 160;
 const int ZOMBIE_FAST_H_L4 = 160;
 const int ZOMBIE_MONSTER_W_L4 = 200;
 const int ZOMBIE_MONSTER_H_L4 = 200;
+
 
 const int L2_ROAD_SURFACE_THICK = 22;
 const int L2_ROAD_HIGHLIGHT_THICK = 6;
