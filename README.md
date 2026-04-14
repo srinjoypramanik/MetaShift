@@ -40,10 +40,10 @@ How to Play
 ## **Controls** 
 - |Action	          |  Key |
 - |Move Forward	    |   →  |
-- Move Backward	    |   ←
-- Boost             |   B 
-- Shoot	            |  Space
-- Pause             |  	P
+- |Move Backward	  |   ←  |
+- |Boost            |   B  |
+- |Shoot	          |Space |
+- |Pause            |  	P  |
 
 
 ### **Game Rules**
