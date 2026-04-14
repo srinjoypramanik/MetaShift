@@ -38,8 +38,8 @@ Open the project in Visual Studio 2013:
 
 How to Play
 ## **Controls** 
-- Action	          |  Key 
-- Move Forward	    |   →
+- |Action	          |  Key |
+- |Move Forward	    |   →  |
 - Move Backward	    |   ←
 - Boost             |   B 
 - Shoot	            |  Space
