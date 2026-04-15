@@ -303,6 +303,8 @@ const int ZOMBIE_MONSTER_W_L4 = 200;
 const int ZOMBIE_MONSTER_H_L4 = 200;
 
 
+// Terrain 
+
 const int L2_ROAD_SURFACE_THICK = 22;
 const int L2_ROAD_HIGHLIGHT_THICK = 6;
 const int L2_ROCK_LAYER_THICK = 34;
@@ -543,6 +545,9 @@ int getCarImage(int* carImages, int animTick, bool moving, bool uphill, bool dow
 	return carImages[3];
 }
 
+
+// Road Colors
+
 void setLevel01RoadMainColor() { iSetColor(118, 168, 62); }
 void setLevel01RoadHighlightColor() { iSetColor(170, 220, 95); }
 void setLevel01UndergroundDeepColor() { iSetColor(130, 80, 35); }
@@ -562,6 +567,8 @@ void setLevel04RoadMainColor() { iSetColor(92, 50, 48); }
 void setLevel04RoadHighlightColor() { iSetColor(92, 50, 48); }
 void setLevel04UndergroundDeepColor() { iSetColor(44, 29, 31); }
 void setLevel04UndergroundMidColor() { iSetColor(44, 29, 31); }
+
+
 
 void setLevelRoadMainColor() {
 	if (currentLevel == LEVEL_01) setLevel01RoadMainColor();
