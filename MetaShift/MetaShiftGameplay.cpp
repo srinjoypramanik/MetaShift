@@ -263,7 +263,7 @@ const int MAX_ZOMBIES_ON_SCREEN_L4 = 10;
 
 // Zombie Health in Levels
 
-const int L1_NORMAL_ZOMBIE_HEALTH = 2;
+const int L1_NORMAL_ZOMBIE_HEALTH = 1;
 
 const int L2_NORMAL_ZOMBIE_HEALTH = 1;
 const int L2_ARMORED_ZOMBIE_HEALTH = 2;
