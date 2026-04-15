@@ -1,5 +1,8 @@
 #include "MetaShiftShared.hpp"
 
+
+// Loads all zombie images
+
 void loadZombieAssets() {
 	for (int i = 0; i < 8; i++) {
 		char path[100] = { 0 };
@@ -25,6 +28,8 @@ void loadZombieAssets() {
 		monsterZombieImg[i] = iLoadImage(path);
 	}
 }
+
+// Loads Car images in Levels
 
 void loadLevel1CarImages() {
 	carL1Img[0] = iLoadImage("Images//Car-1-1.png");
@@ -109,6 +114,8 @@ void loadLevel04CharacterImages() {
 	if (l4RobotJumpImg == 0) l4RobotJumpImg = l4RobotIdleImg;
 }
 
+// Loads UI images
+
 void initUI() {
 	menuBgImg = iLoadImage("Images//menu_bg.png");
 	aboutPanelImg = iLoadImage("Images//about_panel.png");
@@ -136,6 +143,9 @@ void initUI() {
 	btnAboutExit = { 545, 30, 110, 55 };
 	btnSkip = { SCREEN_WIDTH - 160, 10, 140, 45 };
 }
+
+
+// Loads EVERYTHING together
 
 void loadGameAssets() {
 	bgL1Img = iLoadImage("Images//bg_level1.png");
