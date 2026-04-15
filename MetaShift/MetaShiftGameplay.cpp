@@ -121,7 +121,7 @@ const double BULLET_SPEED_L4 = 30.0;
 const int TARGET_COINS_L1 = 10;
 const int TARGET_COINS_L2 = 10;
 const int TARGET_COINS_L3 = 50;
-const int TARGET_COINS_L4 = 50;
+const int TARGET_COINS_L4 = 100;
 
 
 // Extra Coin in Level
