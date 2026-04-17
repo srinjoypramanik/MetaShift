@@ -56,7 +56,7 @@ How to Play
 
 ## Project Contributors
 1. Srinjoy Pramanik
-2. Sheikh Tanzid Ahmed Sadi
+2. Sheikh Tanzid Ahmed Sadi 
 3. Abid
 
 
