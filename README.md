@@ -55,8 +55,8 @@ How to Play
 - Progress depends on decisions made in earlier levels.
 
 ## Project Contributors
-1. Srinjoy Pramanik
-2. Sheikh Tanzid Ahmed Sadi 
+1. Srinjoy Pramanik (Co-Author)
+2. Sheikh Tanzid Ahmed Sadi (Co-Author)
 
 
 ## Youtube Link
