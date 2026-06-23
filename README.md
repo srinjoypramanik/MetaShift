@@ -54,6 +54,7 @@ How to Play
 - Colliding with restricted enemies results in game over.
 - Progress depends on decisions made in earlier levels.
 
+
 ## Project Contributors
 1. Srinjoy Pramanik (Co-Author)
 2. Sheikh Tanzid Ahmed Sadi (Co-Author)
