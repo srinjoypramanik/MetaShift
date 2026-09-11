@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/C-Language-A8B9CC?logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-Language-00599C?logo=cplusplus\&logoColor=white)
 ![iGraphics](https://img.shields.io/badge/iGraphics-Graphics%20Library-FF9800)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-2013-5C2D91?logo=visualstudio\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202013-IDE-5C2D91?logo=visualstudio\&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows\&logoColor=white)
 ![Game](https://img.shields.io/badge/Project-2D%20Action%20Game-E91E63)
 ![Genre](https://img.shields.io/badge/Genre-Arcade%20Action-9C27B0)
