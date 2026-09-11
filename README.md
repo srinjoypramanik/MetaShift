@@ -5,7 +5,7 @@
 ![iGraphics](https://img.shields.io/badge/iGraphics-Graphics%20Library-FF9800)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%202013-IDE-5C2D91?logo=visualstudio\&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows\&logoColor=white)
-![Game](https://img.shields.io/badge/Project-2D%20Action%20Game-E91E63)
+![2D Game Development](https://img.shields.io/badge/Project-2D%20Game%20Development-E91E63)
 ![Genre](https://img.shields.io/badge/Genre-Arcade%20Action-9C27B0)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
